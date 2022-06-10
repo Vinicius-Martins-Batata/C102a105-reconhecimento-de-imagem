@@ -1,0 +1,23 @@
+body{
+
+    background: #007DC4;
+    color:white;
+}
+
+#camera{
+
+    border: 2px dashed black;/*adicionamos uma borda preta pontilhada para o espaço da camera*/
+    width: 350px;
+    height: 300px;
+}
+
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy{
+
+    color: #00DA32 ;
+}
+
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+}
